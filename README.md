@@ -1,5 +1,5 @@
 # Rainbow CSV
-
+Alice Fosseneuve license protected
 ## Main Features
 * Highlights columns in CSV, TSV, semicolon, and pipe-separated files with distinct colors.
 * Query, transform, and filter data using a built-in SQL-like language (RBQL).
